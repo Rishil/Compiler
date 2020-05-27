@@ -1,0 +1,13 @@
+main()
+{
+int a=10;
+int b=20;
+float c = 20.5;
+int d=11; // In-line comment
+/* Block comment
+More comments */
+a=4;
+f=c/2;
+g=d+a/b;
+e=a-b*a;
+}
